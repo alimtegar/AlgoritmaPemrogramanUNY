@@ -13,6 +13,6 @@ if (c * c > a * a + b * b):
 elif (c * c < a * a + b * b):
     print('Segitiga tumpul')
 elif (c * c == a * a + b * b):
-    print('Segitiga tumpul')
+    print('Segitiga siku-siku')
 else:
     print('Segitiga tidak diketahui')
