@@ -11,7 +11,7 @@ public class Kasir {
         System.out.println();
         if (totalSpending > 100000) {
             System.out.println("Diskon: 5%");
-            System.out.println("Total akhir belanja: " + (int) ((double) totalSpending * 9.5));
+            System.out.println("Total akhir belanja: " + (int) ((double) totalSpending * 0.95));
         } else {
             System.out.println("Diskon: 0%");
             System.out.println("Total akhir belanja: " + totalSpending);
