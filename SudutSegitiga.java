@@ -19,7 +19,7 @@ public class SudutSegitiga {
         } else if (c * c < a * a + b * b) {
             System.out.println("Segitiga tumpul");
         } else if (c * c == a * a + b * b) {
-            System.out.println("Segitiga tumpul");
+            System.out.println("Segitiga siku-siku");
         } else {
             System.out.println("Segitiga tidak diketahui");
         }
